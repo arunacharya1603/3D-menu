@@ -11,6 +11,7 @@ var Menu = (function() {
 		init = function() {
 
 			initEvents();
+			console.log("initEvents()");
 
 		},
 		initEvents = function() {
